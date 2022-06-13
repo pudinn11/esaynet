@@ -1,2 +1,1 @@
-# esaynet
-esay to go net
+aHR0cDovL2dyYWR1YXRlLnB1bWMuZWR1LmNuL3pzdy94bHkuaHRt
